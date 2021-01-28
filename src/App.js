@@ -1,14 +1,11 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import {
   BrowserRouter as Router,
   Route,
   Link,
   Switch,
-  Redirect,
 } from "react-router-dom";
 import Home from "./components/Home";
-import About from "./components/About";
-import Contact from "./components/Contact";
 import Nav from "./starWars/Nav"
 import Vehicle from "./starWars/Vehicle"
 import Error from "./components/Error";
