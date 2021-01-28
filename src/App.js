@@ -16,7 +16,7 @@ import Error from "./components/Error";
 function App() {
   return (
     <div className="App">
-      <h1>Star Wars Vehicles</h1>
+      <h1>Star Wars - Vehicles</h1>
       <Router>
         <ul>
           <li>
